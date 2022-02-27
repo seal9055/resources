@@ -141,7 +141,7 @@ Assessment](https://www.amazon.com/Art-Software-Security-Assessment-Vulnerabilit
 * [Abraxus\_GH Intro](https://kasimir123.github.io/blog-posts/JourneyToSavagePlanet.html)
 
 <a name="10"/></a>
-#### Appsec
+### Appsec
 * [Art of software Security Assessment](https://www.amazon.com/Art-Software-Security-Assessment-Vulnerabilities/dp/0321444426)
 * [Pentesterlab](https://pentesterlab.com/)
 * [Beginner Guide](https://0xboku.com/2021/09/14/0dayappsecBeginnerGuide.html)

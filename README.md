@@ -137,6 +137,7 @@ Assessment](https://www.amazon.com/Art-Software-Security-Assessment-Vulnerabilit
 <a name="9"/></a>
 ### Game Hacking
 * [Guided Hacking](https://guidedhacking.com/threads/ghb0-game-hacking-bible-introduction.14450/)
+* [Gamehacking Academy](https://gamehacking.academy/about)
 * [seal9055\_Minesweeper/ds3 Intro](https://seal9055.com/blog/game/dark_souls_3) (mine)
 * [Abraxus\_GH Intro](https://kasimir123.github.io/blog-posts/JourneyToSavagePlanet.html)
 

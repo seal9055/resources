@@ -13,6 +13,7 @@ Collection of resources I have used throughout my studies (cybersecurity and sys
 [Game Hacking](#9)  
 [Appsec](#10)  
 [Compilers](#11)  
+[Optimized Programming](#12)  
 
 <a name="1"/></a>
 ### Basics
@@ -105,17 +106,16 @@ Assessment](https://www.amazon.com/Art-Software-Security-Assessment-Vulnerabilit
 
 <ins>General</ins>  
 * [Fuzzing Book](https://www.fuzzingbook.org/)
-* [Fuzzing Brute Force Vuln Discovery](https://www.amazon.com/Fuzzing-Brute-Force-Vulnerability-Discovery/dp/0321446119)
 * [Gamozolabs](https://gamozolabs.github.io/)
 * [Fuzzing101 Practice](https://github.com/antonio-morales/Fuzzing101)
 
 <ins>Papers</ins>  
-* [AFL Technical Details](https://lcamtuf.coredump.cx/afl/technical_details.txt)
-* [Nyx](https://www.usenix.org/system/files/sec21summer_schumilo.pdf)
-* [Baseband Emulation](https://arxiv.org/pdf/2005.07797.pdf)
-* [Building Fast Fuzzers](https://arxiv.org/pdf/1911.07707.pdf)
-* [SOK State of the Art](https://wcventure.github.io/FuzzingPaper/Paper/TRel18_Fuzzing.pdf)
-* [SOK Progress, Challenges, Perspectives](https://wcventure.github.io/FuzzingPaper/Paper/TRel18_Fuzzing.pdf)
+* [Collection of papers + intro](https://github.com/seal9055/sfuzz/blob/main/fuzzing.md) (mine)
+
+<ins>Codeql</ins>  
+[Readteam-village](https://www.youtube.com/watch?v=-bJ2Ioi7Icg&ab_channel=RedTeamVillage)
+[Security-lab](https://securitylab.github.com/research/rhino-in-the-room/)
+[Github](https://www.youtube.com/watch?v=nvCd0Ee4FgE&ab_channel=GitHub)
 
 <a name="7"/></a>
 ### Malware
@@ -163,3 +163,10 @@ Assessment](https://www.amazon.com/Art-Software-Security-Assessment-Vulnerabilit
 * [Linear Scan Regalloc](http://web.cs.ucla.edu/~palsberg/course/cs132/linearscan.pdf)
 * [llvm regalloc](https://blog.llvm.org/2011/09/greedy-register-allocation-in-llvm-30.html)
 * [Cornell Advanced Compilers](https://www.cs.cornell.edu/courses/cs6120/2020fa/self-guided/)
+
+<a name="12"/></a>
+### Optimized Programming
+* [Algorithms for modern Hardware](https://en.algorithmica.org/hpc/)
+* [Denis Yaroshevskiy](https://www.youtube.com/channel/UC4N2-1Wky5rzPgH4rv3tSFg/videos)
+* [Jonas Skeppstedt](https://www.youtube.com/channel/UC3stBkbGaerSBDqKfe-NKsg/featured)
+* [Fernando](https://www.youtube.com/user/pronesto)

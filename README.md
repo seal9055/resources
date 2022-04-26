@@ -113,9 +113,9 @@ Assessment](https://www.amazon.com/Art-Software-Security-Assessment-Vulnerabilit
 * [Collection of papers + intro](https://github.com/seal9055/sfuzz/blob/main/fuzzing.md) (mine)
 
 <ins>Codeql</ins>  
-[Readteam-village](https://www.youtube.com/watch?v=-bJ2Ioi7Icg&ab_channel=RedTeamVillage)
-[Security-lab](https://securitylab.github.com/research/rhino-in-the-room/)
-[Github](https://www.youtube.com/watch?v=nvCd0Ee4FgE&ab_channel=GitHub)
+[Readteam-village](https://www.youtube.com/watch?v=-bJ2Ioi7Icg&ab_channel=RedTeamVillage)  
+[Security-lab](https://securitylab.github.com/research/rhino-in-the-room/)  
+[Github](https://www.youtube.com/watch?v=nvCd0Ee4FgE&ab_channel=GitHub)  
 
 <a name="7"/></a>
 ### Malware

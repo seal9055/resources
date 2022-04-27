@@ -14,6 +14,7 @@ Collection of resources I have used throughout my studies (cybersecurity and sys
 [Appsec](#10)  
 [Compilers](#11)  
 [Optimized Programming](#12)  
+[Computer Architecture](#13)  
 
 <a name="1"/></a>
 ### Basics
@@ -170,3 +171,10 @@ Assessment](https://www.amazon.com/Art-Software-Security-Assessment-Vulnerabilit
 * [Denis Yaroshevskiy](https://www.youtube.com/channel/UC4N2-1Wky5rzPgH4rv3tSFg/videos)
 * [Jonas Skeppstedt](https://www.youtube.com/channel/UC3stBkbGaerSBDqKfe-NKsg/featured)
 * [Fernando](https://www.youtube.com/user/pronesto)
+
+<a name="13"/></a>
+### Computer Architecture
+* [Hennessy](https://www.amazon.com/Computer-Architecture-Quantitative-John-Hennessy/dp/012383872X)
+* [Fabian Giesen youtube](https://www.youtube.com/channel/UCcRaa0AcYX32c0m8wJJHNWg/videos)
+* [Sushi Roll](https://gamozolabs.github.io/metrology/2019/08/19/sushi_roll.html)
+

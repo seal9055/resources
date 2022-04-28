@@ -177,4 +177,5 @@ Assessment](https://www.amazon.com/Art-Software-Security-Assessment-Vulnerabilit
 * [Hennessy](https://www.amazon.com/Computer-Architecture-Quantitative-John-Hennessy/dp/012383872X)
 * [Fabian Giesen youtube](https://www.youtube.com/channel/UCcRaa0AcYX32c0m8wJJHNWg/videos)
 * [Sushi Roll](https://gamozolabs.github.io/metrology/2019/08/19/sushi_roll.html)
-
+* [Princeton](https://www.youtube.com/watch?v=9nuAjYRbITQ&t=13975s&ab_channel=Nerd%27slesson)
+* [ETH Zuerich](https://www.youtube.com/watch?v=AJBmIaUneB0&list=PL5Q2soXY2Zi_FRrloMa2fUYWPGiZUBQo2&ab_channel=OnurMutluLectures)

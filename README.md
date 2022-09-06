@@ -167,6 +167,7 @@ Assessment](https://www.amazon.com/Art-Software-Security-Assessment-Vulnerabilit
 
 <a name="12"/></a>
 ### Optimized Programming
+* [Agner Fog Optimization Manuals](https://www.agner.org/)
 * [Algorithms for modern Hardware](https://en.algorithmica.org/hpc/)
 * [Denis Yaroshevskiy](https://www.youtube.com/channel/UC4N2-1Wky5rzPgH4rv3tSFg/videos)
 * [Jonas Skeppstedt](https://www.youtube.com/channel/UC3stBkbGaerSBDqKfe-NKsg/featured)

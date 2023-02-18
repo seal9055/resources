@@ -15,6 +15,9 @@ Collection of resources I have used throughout my studies (cybersecurity and sys
 [Compilers](#11)  
 [Optimized Programming](#12)  
 [Computer Architecture](#13)  
+[OSDev](#14)  
+[Hypervisor](#15)  
+[Malware](#16)  
 
 <a name="1"/></a>
 ### Basics
@@ -27,6 +30,7 @@ up](https://download-mirror.savannah.gnu.org/releases/pgubook/ProgrammingGroundU
 * [Hackadayu](https://www.youtube.com/watch?v=d4Pgi5XML8E)
 * [Beginners.re](https://beginners.re/main.html)
 * [Secrets of RE](https://www.amazon.com/Reversing-Secrets-Engineering-Eldad-Eilam/dp/0764574817)
+* [PWN Timeline](https://thinkst.com/resources/papers/BlackHat-USA-2010-Meer-History-of-Memory-Corruption-Attacks-wp.pdf)
 
 <ins>Secure Coding/Code Auditing:</ins>
 * [Secure Coding in C/C++](https://www.amazon.com/Secure-Coding-2nd-Software-Engineering/dp/0321822137)
@@ -88,6 +92,8 @@ Assessment](https://www.amazon.com/Art-Software-Security-Assessment-Vulnerabilit
 * [MGP25](https://mgp25.com/browser-exploitation/)
 * [Ret2](https://blog.ret2.io/2018/06/05/pwn2own-2018-exploit-development/)
 * [Google Project Zero](https://googleprojectzero.blogspot.com/2020/09/jitsploitation-one.html)
+* [Chrome Version Tracker](https://omahaproxy.appspot.com/)
+* [Practice Exercises](https://github.com/StarCrossPortal/bug-hunting-101?s=09)
 
 <a name="5"/></a>
 ### Embedded Security
@@ -101,6 +107,7 @@ Assessment](https://www.amazon.com/Art-Software-Security-Assessment-Vulnerabilit
 * [Flashback Team](https://www.youtube.com/channel/UCBrKPoIYCS7BlT7Q_UiBwAQ)
 * [Printer Hacking Stream](https://www.youtube.com/watch?v=qti5_NOLE8M&list=PLSkhUfcCXvqGGQN8ATgWI0XYGvU-jq0uG)
 * [Hardware Hacking Handbook](https://nostarch.com/hardwarehacking)
+* [Side channels](https://ktln2.org/experiments-around-side-channels/)
 
 <a name="6"/></a>
 ### Fuzzing
@@ -181,3 +188,25 @@ Assessment](https://www.amazon.com/Art-Software-Security-Assessment-Vulnerabilit
 * [Sushi Roll](https://gamozolabs.github.io/metrology/2019/08/19/sushi_roll.html)
 * [Princeton](https://www.youtube.com/watch?v=9nuAjYRbITQ&t=13975s&ab_channel=Nerd%27slesson)
 * [ETH Zuerich](https://www.youtube.com/watch?v=AJBmIaUneB0&list=PL5Q2soXY2Zi_FRrloMa2fUYWPGiZUBQo2&ab_channel=OnurMutluLectures)
+
+<a name="14"/></a>
+### OSDev 
+* [OS.phil-opp](https://os.phil-opp.com/)
+* [Creating RISCV-OS in rust](https://osblog.stephenmarz.com/)
+* [OS Tutorial](https://github.com/cfenollosa/os-tutorial)
+* [Chocolate Milk](https://github.com/gamozolabs/chocolate_milk )
+
+<a name="15"/></a>
+### Hypervisor 
+* [Intel Manuals](https://www.intel.com/content/www/us/en/developer/articles/technical/intel-sdm.html)
+* [HyperV Docs](https://docs.microsoft.com/en-us/virtualization/hyper-v-on-windows/tlfs/virtual-interrupts)
+* [VMware exploit paper](https://www.usenix.org/system/files/woot19-paper_zhao.pdf)
+* [Hypervisor from Scratch](https://rayanfam.com/topics/hypervisor-from-scratch-part-1/)
+* [Writing a hypervisor](https://revers.engineering/7-days-to-virtualization-a-series-on-hypervisor-development/)
+* [talos-barbervisor](https://blog.talosintelligence.com/2020/08/barbervisor.html)
+* [Simplevisor](https://github.com/ionescu007/SimpleVisor)
+
+<a name="16"/></a>
+### Malware 
+* [Malware Dev](https://0xpat.github.io/Malware_development_part_1/)
+* [MAS Series](https://exploitreversing.com/category/malwareanalysis-3/)

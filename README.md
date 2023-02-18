@@ -176,6 +176,7 @@ Assessment](https://www.amazon.com/Art-Software-Security-Assessment-Vulnerabilit
 <a name="13"/></a>
 ### Computer Architecture
 * [Hennessy](https://www.amazon.com/Computer-Architecture-Quantitative-John-Hennessy/dp/012383872X)
+* [Sumamry](https://www.lighterra.com/papers/modernmicroprocessors/)
 * [Fabian Giesen youtube](https://www.youtube.com/channel/UCcRaa0AcYX32c0m8wJJHNWg/videos)
 * [Sushi Roll](https://gamozolabs.github.io/metrology/2019/08/19/sushi_roll.html)
 * [Princeton](https://www.youtube.com/watch?v=9nuAjYRbITQ&t=13975s&ab_channel=Nerd%27slesson)

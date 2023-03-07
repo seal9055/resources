@@ -17,7 +17,7 @@ Collection of resources I have used throughout my studies (cybersecurity and sys
 [Computer Architecture](#13)  
 [OSDev](#14)  
 [Hypervisor](#15)  
-[Malware](#16)  
+[Other](#16)  
 
 <a name="1"/></a>
 ### Basics
@@ -133,6 +133,7 @@ Assessment](https://www.amazon.com/Art-Software-Security-Assessment-Vulnerabilit
 * [Uni Course](https://class.malware.re/)
 * [Malware Unicorn](https://malwareunicorn.org/workshops/re101.html#0)
 * [Zero2Auto](https://courses.zero2auto.com/) (paid)
+* [MAS Series](https://exploitreversing.com/category/malwareanalysis-3/)
 
 <a name="8"/></a>
 ### Windows Userland Exploitation
@@ -184,6 +185,7 @@ Assessment](https://www.amazon.com/Art-Software-Security-Assessment-Vulnerabilit
 ### Computer Architecture
 * [Hennessy](https://www.amazon.com/Computer-Architecture-Quantitative-John-Hennessy/dp/012383872X)
 * [Sumamry](https://www.lighterra.com/papers/modernmicroprocessors/)
+* [Measurements](https://faculty.cs.niu.edu/~winans/notes/patmc.pdf)
 * [Fabian Giesen youtube](https://www.youtube.com/channel/UCcRaa0AcYX32c0m8wJJHNWg/videos)
 * [Sushi Roll](https://gamozolabs.github.io/metrology/2019/08/19/sushi_roll.html)
 * [Princeton](https://www.youtube.com/watch?v=9nuAjYRbITQ&t=13975s&ab_channel=Nerd%27slesson)
@@ -207,6 +209,5 @@ Assessment](https://www.amazon.com/Art-Software-Security-Assessment-Vulnerabilit
 * [Simplevisor](https://github.com/ionescu007/SimpleVisor)
 
 <a name="16"/></a>
-### Malware 
-* [Malware Dev](https://0xpat.github.io/Malware_development_part_1/)
-* [MAS Series](https://exploitreversing.com/category/malwareanalysis-3/)
+### Other
+* [SOK Collection](https://oaklandsok.github.io/)

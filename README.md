@@ -187,9 +187,15 @@ Assessment](https://www.amazon.com/Art-Software-Security-Assessment-Vulnerabilit
 * [Sumamry](https://www.lighterra.com/papers/modernmicroprocessors/)
 * [Measurements](https://faculty.cs.niu.edu/~winans/notes/patmc.pdf)
 * [Fabian Giesen youtube](https://www.youtube.com/channel/UCcRaa0AcYX32c0m8wJJHNWg/videos)
-* [Sushi Roll](https://gamozolabs.github.io/metrology/2019/08/19/sushi_roll.html)
 * [Princeton](https://www.youtube.com/watch?v=9nuAjYRbITQ&t=13975s&ab_channel=Nerd%27slesson)
 * [ETH Zuerich](https://www.youtube.com/watch?v=AJBmIaUneB0&list=PL5Q2soXY2Zi_FRrloMa2fUYWPGiZUBQo2&ab_channel=OnurMutluLectures)
+* [90-min Intro](https://www.lighterra.com/papers/modernmicroprocessors/)
+
+<ins>Microarchitecture Bugs</ins>  
+* [Spectre](https://arxiv.org/pdf/1801.01203.pdf)  
+* [Sushi Roll](https://gamozolabs.github.io/metrology/2019/08/19/sushi_roll.html)
+* [Sysret](https://xenproject.org/2012/06/13/the-intel-sysret-privilege-escalation/)
+* [Hackaday](https://hackaday.com/2017/12/28/34c3-hacking-into-a-cpus-microcode/)
 
 <a name="14"/></a>
 ### OSDev 

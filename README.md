@@ -17,7 +17,8 @@ Collection of resources I have used throughout my studies (cybersecurity and sys
 [Computer Architecture](#13)  
 [OSDev](#14)  
 [Hypervisor](#15)  
-[Other](#16)  
+[Program Analysis](#16)  
+[Other](#17)  
 
 <a name="1"/></a>
 ### Basics
@@ -142,6 +143,7 @@ Assessment](https://www.amazon.com/Art-Software-Security-Assessment-Vulnerabilit
 * [Fuzzysecurity](https://www.fuzzysecurity.com/tutorials.html)
 * [OSED Prep](https://github.com/r0r0x-xx/OSED-Pre#DEP-Bypass)
 * [Epi052](https://epi052.gitlab.io/notes-to-self/blog/)
+* [Windows Activation](https://github.com/massgravel/Microsoft-Activation-Scripts)
 
 <a name="9"/></a>
 ### Game Hacking
@@ -215,5 +217,11 @@ Assessment](https://www.amazon.com/Art-Software-Security-Assessment-Vulnerabilit
 * [Simplevisor](https://github.com/ionescu007/SimpleVisor)
 
 <a name="16"/></a>
+### Program Analysis
+* [SE Survey](https://arxiv.org/pdf/1610.00502.pdf)
+* [PA SOK](https://oaklandsok.github.io/papers/shoshitaishvili2016.pdf)
+* [CMU DTA/FSE Intro](https://users.ece.cmu.edu/~aavgerin/papers/Oakland10.pdf)
+
+<a name="17"/></a>
 ### Other
 * [SOK Collection](https://oaklandsok.github.io/)

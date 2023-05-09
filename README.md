@@ -221,6 +221,10 @@ Assessment](https://www.amazon.com/Art-Software-Security-Assessment-Vulnerabilit
 * [SE Survey](https://arxiv.org/pdf/1610.00502.pdf)
 * [PA SOK](https://oaklandsok.github.io/papers/shoshitaishvili2016.pdf)
 * [CMU DTA/FSE Intro](https://users.ece.cmu.edu/~aavgerin/papers/Oakland10.pdf)
+* Principles of program analysis (book)
+* Data Flow Analysis: Theory and Practice (book)
+* [Intro Videos](https://www.youtube.com/watch?v=v0dKdfmziHs&list=PLF3-CvSRq2SYXEiS80KuZQ80q8K2aHLQX)
+
 
 <a name="17"/></a>
 ### Other

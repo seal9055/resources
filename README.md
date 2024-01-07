@@ -72,7 +72,8 @@ Assessment](https://www.amazon.com/Art-Software-Security-Assessment-Vulnerabilit
 * [Understanding the Linux Kernel](https://www.amazon.com/Understanding-Linux-Kernel-Third-Daniel/dp/0596005652)
 * [Linux Kernel Programming P1](https://www.amazon.com/Linux-Kernel-Development-Cookbook-programming/dp/178995343X)
 * [Linux Kernel Programming P2](https://www.amazon.com/Linux-Kernel-Programming-Part-Synchronization-ebook/dp/B08ZSV58G8)
-
+* [PtrYudai - Pawnyable](https://pawnyable.cafe/linux-kernel/)
+  
 <ins>Exploitation</ins>  
 * [lkmidas](https://lkmidas.github.io/posts/20210123-linux-kernel-pwn-part-1/)
 * [Kernel ROP](https://seal9055.com/blog/kernel/return_oriented_programming) (mine)

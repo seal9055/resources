@@ -72,7 +72,6 @@ Assessment](https://www.amazon.com/Art-Software-Security-Assessment-Vulnerabilit
 * [Understanding the Linux Kernel](https://www.amazon.com/Understanding-Linux-Kernel-Third-Daniel/dp/0596005652)
 * [Linux Kernel Programming P1](https://www.amazon.com/Linux-Kernel-Development-Cookbook-programming/dp/178995343X)
 * [Linux Kernel Programming P2](https://www.amazon.com/Linux-Kernel-Programming-Part-Synchronization-ebook/dp/B08ZSV58G8)
-* [PtrYudai - Pawnyable](https://pawnyable.cafe/linux-kernel/)
   
 <ins>Exploitation</ins>  
 * [lkmidas](https://lkmidas.github.io/posts/20210123-linux-kernel-pwn-part-1/)
@@ -81,6 +80,7 @@ Assessment](https://www.amazon.com/Art-Software-Security-Assessment-Vulnerabilit
 * [Lexfo](https://blog.lexfo.fr/cve-2017-11176-linux-kernel-exploitation-part1.html)
 * [Kernel Heap Exploitation](https://argp.github.io/2012/01/03/linux-kernel-heap-exploitation/)
 * [Pr0cf5](https://pr0cf5.github.io/ctf/2019/10/10/balsn-ctf-krazynote.html)
+* [PtrYudai - Pawnyable](https://pawnyable.cafe/linux-kernel/)
 
 <a name="4"/></a>
 ### Browser Exploitation
